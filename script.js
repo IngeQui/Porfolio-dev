@@ -6,6 +6,6 @@ boton.addEventListener ('click', function(){
     if (body.classList.contains('modo-oscuro')){
 boton.textContent = '☀️ Modo Claro';
     } else {
-        boton.textContent = '🌙Modo Oscuro'; 
+        boton.textContent = '🌙 Modo Oscuro'; 
     }
 });
